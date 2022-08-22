@@ -1,8 +1,18 @@
-# Template
+# UserInput 2
 
-- Create a program called `.java`
-- Prompt the user for 
+- Create a program called `UserInput2.java`
+- Prompt the user to enter their full name
+- Using substring and indexOf, create a variable that is the user's first name
+- Prompt the user to enter the number of apples they want to buy
+- Prompt the user to enter the cost of an apple
+- Calculate the total cost of the apples
+- Print
+  - Hi <FIRSTNAME>, you are buying <NUMAPPLES> apples at $XX.XX for a total of $<TOTALCOST>
+
 
 ***Example Input:***\
-\
-***Example Output:***
+Will Smith\
+3\
+2.50\
+***Example Output:***\
+Hi Will, you are buying 3 apples at $2.50 for a total of $7.50
