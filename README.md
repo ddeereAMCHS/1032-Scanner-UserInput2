@@ -1,5 +1,7 @@
 # UserInput 2
 
+## Due: DoW MM/DD at 11:59 PM
+
 - Create a program called `UserInput2.java`
 - Prompt the user to enter their full name
 - Using substring and indexOf, create a variable that is the user's first name
