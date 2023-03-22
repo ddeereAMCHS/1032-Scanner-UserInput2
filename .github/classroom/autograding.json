@@ -7,7 +7,7 @@
       "input": "Will Smith\r\n3\r\n2.50",
       "output": "Hi Will, you are buying 3 apples at $2.50 for a total of $7.50",
       "comparison": "included",
-      "timeout": 10,
+      "timeout": 2,
       "points": null
     },
     {
@@ -17,7 +17,7 @@
       "input": "John Deere\r\n4\r\n3.00",
       "output": "Hi John, you are buying 4 apples at $3.00 for a total of $12.00",
       "comparison": "included",
-      "timeout": 10,
+      "timeout": 2,
       "points": null
     }
   ]
